@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [NxtTrendzTestSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="nxtTrendz"/>
+  </listeners>
+  <test thread-count="2" parallel="methods" name="LoginAndHomePageTest(failed)">
+    <classes>
+      <class name="CCBP">
+        <methods>
+          <include name="clickOnShopNowButton"/>
+          <include name="checkHeadingElement"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- CCBP -->
+    </classes>
+  </test> <!-- LoginAndHomePageTest(failed) -->
+</suite> <!-- Failed suite [NxtTrendzTestSuite] -->

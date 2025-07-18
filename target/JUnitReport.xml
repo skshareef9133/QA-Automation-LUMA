@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.237" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Login Functionality" name="Successful Login" time="3.218">
+<system-out><![CDATA[
+Given I am on the login page................................................passed
+When I enter valid username and password....................................passed
+And I click on the login button.............................................passed
+Then I should be redirected to the home page................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Tip Calculator Functionality" name="Test the tip calculation with valid inputs" time="2.799">
+<system-out><![CDATA[
+Given I navigate to the tip calculator page.................................passed
+When I enter "1000" as the bill amount......................................passed
+And I enter "15" as the tip percentage......................................passed
+And I click the calculate button............................................passed
+Then I should see the tip amount as "150.00"................................passed
+And I should see the total amount as "1150.00"..............................passed
+]]></system-out>
+</testcase>
+</testsuite>

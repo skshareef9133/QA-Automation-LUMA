@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BaseTestSuite">
+
+
+    <test name="Signup,Login,LogoutAndChangePasswordTest">
+        <classes>
+            <class name="Base.tests1.signupTest1"/>
+            <class name="Base.tests1.LoginTest1"/>
+            <class name="Base.tests1.ChangePasswordTest1"/>
+            <class name="Base.tests1.LogoutTest1"/>
+        </classes>
+    </test>
+
+</suite>

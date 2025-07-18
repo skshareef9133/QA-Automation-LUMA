@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3ddebcb-5b01-4193-aaec-8ea71b1ec378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desired location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/pages1/AccountPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/pages1/ChangePasswordPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/pages1/LoginPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/pages1/signupPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/tests1/ChangePasswordTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/tests1/LoginTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/tests1/LogoutTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/tests1/signupTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/utils1/TestData1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrowserCommands/SeleniumExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CCBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CCBP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CCBP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ClickCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FlipkartTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Luma_Assessment/classpages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Luma_Assessment/classpages/SignupPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Luma_Assessment/tests/SignupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Luma_Assessment/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/MouseHoverAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScreenShotAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScrollExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyProjects/OrangeHRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyProjects/Theinternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Netflixpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TipcalpageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WikipediaSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Windows/MultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Windows/windowhandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XpathOperators/BooleanOperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XpathOperators/ComparisonOperatorsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cashwithdrawtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/iframes/blogsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/loginTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/loginTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/nxtTrendz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPageUsingPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/samplelogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalitySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/TipcalculatorFunctionalitySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginFunctionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/TipCalculatorFunctionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HtmlReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JUnitReport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/JsonReport.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/cucumber-reports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/BaseTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/pages1/AccountPage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/pages1/ChangePasswordPage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/pages1/LoginPage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/pages1/signupPage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/tests1/ChangePasswordTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/tests1/LoginTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/tests1/LogoutTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/tests1/signupTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Base/utils1/TestData1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserCommands/SeleniumExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CCBP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CCBP2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CCBP3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ClickCounterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FlipkartTitleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Luma_Assessment/classpages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Luma_Assessment/classpages/SignupPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Luma_Assessment/tests/SignupTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Luma_Assessment/utils/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/FirstTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MoreWebDriverActions/DragAndDrop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MoreWebDriverActions/MouseHoverAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MoreWebDriverActions/ScreenShotAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MoreWebDriverActions/ScrollExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MyProjects/OrangeHRM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MyProjects/Theinternet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Netflixpage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TipcalpageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/WikipediaSearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Windows/MultipleWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Windows/windowhandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/XpathOperators/BooleanOperatorsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/XpathOperators/ComparisonOperatorsExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/cashwithdrawtest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/iframes/blogsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/loginTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/loginTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/nxtTrendz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPageUsingPageFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/runner/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/samplelogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/LoginFunctionalitySteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/stepdefinitions/TipcalculatorFunctionalitySteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/BaseTestSuite/Signup,Login,LogoutAndChangePasswordTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/BaseTestSuite/Signup,Login,LogoutAndChangePasswordTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/BaseTestSuite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/LoginAndHomePageTest2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/NxtTrendzTestSuite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Sample Test Suite/Sample Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Sample Test Suite/Sample Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Base.tests1.ChangePasswordTest1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Base.tests1.LoginTest1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Base.tests1.LogoutTest1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Base.tests1.signupTest1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-CCBP.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-CCBP2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/Signup,Login,LogoutAndChangePasswordTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/BaseTestSuite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/LoginAndHomePageTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/LoginAndHomePageTest1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/LoginAndHomePageTest2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/NxtTrendzTestSuite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/Sample Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Sample Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FirstTest$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1748520979179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepsdefintions/TipCalculatorFunctionalitySteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/TipCalculatorFunctionality.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/loginTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CCBP2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nxtTrendz.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/f2d83686-86f4-49c5-9d0d-44121f421641_FirstTest (1).zip.FirstTest (1).zip/NxtTrendzWithPOM.iml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPageUsingPageFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Windows/windowhandle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Windows/MultipleWindows.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BrowserCommands/SeleniumExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Theinternet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/iframes/blogsApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/XpathOperators/AndOrNot.java" />
+        <option value="$PROJECT_DIR$/src/test/java/XpathOperators/BooleanOperatorsExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/XpathOperators/ComparisonOperatorsExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyProjects/OrangeHRM.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/LoginFunctionality.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/SeleniumExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScrollExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScreenShotAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/DragAndDrop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoreWebDriverActions/MouseHoverAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalitySteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/TipcalculatorFunctionalitySteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyProjects/Theinternet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Luma/utils/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Luma_Assessment/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Luma_Assessment/pages/SignupPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Luma_Assessment/utils/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CCBP3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CCBP.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/loginTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Luma_Assessment/tests/SignupTest.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/BaseTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/pages1/LoginPage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/pages1/signupPage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/pages1/ChangePasswordPage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/tests1/ChangePasswordTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/tests1/LoginTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/tests1/signupTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/tests1/LogoutTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/pages1/AccountPage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/utils1/TestData1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="first-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="first-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="first-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="FirstTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="FirstTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FirstTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FirstTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FirstTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="FirstTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="FirstTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1752857862027" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MyProjects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml">
+    <configuration name="C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangePasswordTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base.tests1" />
+      <option name="MAIN_CLASS_NAME" value="Base.tests1.ChangePasswordTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base.tests1" />
+      <option name="MAIN_CLASS_NAME" value="Base.tests1.LoginTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base.tests1" />
+      <option name="MAIN_CLASS_NAME" value="Base.tests1.LogoutTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTest1.logoutAfterLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FirstTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.tests1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base.tests1" />
+      <option name="MAIN_CLASS_NAME" value="Base.tests1.LogoutTest1" />
+      <option name="METHOD_NAME" value="logoutAfterLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" />
+      <item itemvalue="TestNG.ChangePasswordTest1" />
+      <item itemvalue="TestNG.LoginTest1" />
+      <item itemvalue="TestNG.LogoutTest1" />
+      <item itemvalue="TestNG.LogoutTest1.logoutAfterLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" />
+        <item itemvalue="TestNG.LogoutTest1.logoutAfterLogin" />
+        <item itemvalue="TestNG.LogoutTest1" />
+        <item itemvalue="TestNG.ChangePasswordTest1" />
+        <item itemvalue="TestNG.LoginTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3ddebcb-5b01-4193-aaec-8ea71b1ec378" name="Default Changelist" comment="" />
+      <created>1725106474175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725106474175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LoginTest1 - 2025.07.18 at 20h 20m 38s.xml">
+      <configuration name="LoginTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ChangePasswordTest1 - 2025.07.18 at 20h 21m 20s.xml">
+      <configuration name="ChangePasswordTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LogoutTest1 - 2025.07.18 at 20h 21m 45s.xml">
+      <configuration name="LogoutTest1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Lenovo_IdeaProjects_FirstTest_testng_xml - 2025.07.18 at 20h 23m 47s.xml">
+      <configuration name="C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Lenovo_IdeaProjects_FirstTest_testng_xml - 2025.07.18 at 20h 44m 33s.xml">
+      <configuration name="C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Lenovo_IdeaProjects_FirstTest_testng_xml - 2025.07.18 at 20h 46m 43s.xml">
+      <configuration name="C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LogoutTest1_logoutAfterLogin - 2025.07.18 at 21h 13m 26s.xml">
+      <configuration name="LogoutTest1.logoutAfterLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LogoutTest1_logoutAfterLogin - 2025.07.18 at 21h 26m 13s.xml">
+      <configuration name="LogoutTest1.logoutAfterLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LogoutTest1_logoutAfterLogin - 2025.07.18 at 21h 29m 07s.xml">
+      <configuration name="LogoutTest1.logoutAfterLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Lenovo_IdeaProjects_FirstTest_testng_xml - 2025.07.18 at 21h 30m 33s.xml">
+      <configuration name="C:/Users/Lenovo/IdeaProjects/FirstTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23355705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.7120344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.7120344" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295129" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Windows/MultipleWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="153" selection-start-line="21" selection-start-column="153" selection-end-line="21" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BrowserCommands/SeleniumExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Theinternet.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/4.11.0/selenium-remote-driver-4.11.0.jar!/org/openqa/selenium/remote/codec/w3c/W3CHttpResponseCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="849">
+          <caret line="60" column="28" lean-forward="true" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/iframes/blogsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/XpathOperators/AndOrNot.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/XpathOperators/BooleanOperatorsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="153" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/XpathOperators/ComparisonOperatorsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginFunctionality.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/TipCalculatorFunctionality.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desired location">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoreWebDriverActions/SeleniumExamples.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoreWebDriverActions/MouseHoverAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScrollExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoreWebDriverActions/ScreenShotAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="15" column="153" selection-start-line="15" selection-start-column="153" selection-end-line="15" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoreWebDriverActions/DragAndDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="153" selection-start-line="12" selection-start-column="153" selection-end-line="12" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginFunctionalitySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/TipcalculatorFunctionalitySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyProjects/OrangeHRM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" column="86" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Assessment_LUMA/tests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma/utils/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/tests/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="153" selection-start-line="34" selection-start-column="153" selection-end-line="34" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng/xml.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyProjects/Theinternet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/utils/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/classpages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/samplelogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/classpages/SignupPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1370#1371#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1645#1646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CCBP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="38" column="153" selection-start-line="38" selection-start-column="153" selection-end-line="38" selection-end-column="153" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CCBP3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/loginTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CCBP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Luma_Assessment/tests/SignupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/pages1/signupPage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/pages1/ChangePasswordPage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/pages1/LoginPage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/tests1/signupTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/tests1/LoginTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/pages1/AccountPage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/tests1/LogoutTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/utils1/TestData1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/tests1/ChangePasswordTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FirstTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
